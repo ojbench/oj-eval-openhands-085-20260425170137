@@ -1,0 +1,12 @@
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+install_manifest.txt
+code
+*.o
+*.obj
+*.exe
+*.out
+build/
+compile_commands.json
